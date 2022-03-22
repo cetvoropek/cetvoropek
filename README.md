@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cetvoropek
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in software engineering and game development
+- 🌱 I’m currently learning Java and I'm working for multiple FiveM servers as a full time developer
 - 💞️ I’m looking to collaborate on everything that can make me improve my skills
 
 <!---
