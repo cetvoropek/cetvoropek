@@ -1,13 +1,26 @@
-# 💫 About Me:
-🔭 I’m currently working as Frontend Developer and FiveM Developer<br>👯 I’m looking to collaborate on everything that can improve my skills<br>🌱 I’m currently learning software engineering <br>💬 Ask me about anything :)<br>
+<h2> Hi, I'm Cetvoropek! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjhseXlzYXJ1d21ybGpueTN5ZmRxMWM2Z2R2end4eDE1a2ZvbTR3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" height="25" width="25"></h2>
+<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJjcGVicWRxM3VzcHFsdms1cmQ0aXk4cGVtNTk0emI0ZWY5aWEzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gpF1hNYWOFvLa/giphy.gif" width="250">
+<p><em>Frontend developer </br>FiveM Developer </br> Fullstack Developer in Training 
+</em></p>
+
+[![Linkedin: meekeelangelo](https://img.shields.io/badge/-cetvoropek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meekeelangelo/)](https://www.linkedin.com/in/meekeelangelo/)
+[![GitHub Cetvoropek](https://img.shields.io/github/followers/cetvoropek?label=follow&style=social)](https://github.com/cetvoropek)
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/FSOCIETY#0001) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cetvoropek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meekeelangelo) 
+### <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVneDI2MGRxaXcxaWRqaHM2ZjAxbW8xa3RsMWZreXZ5OTE2M2E4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="50"> A little more about me...  
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-
+```javascript
+const cetvoropek = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, LUA, Java],
+  tools: [React, Redux, Node, Styled-Components, Docker],
+  about: {
+                        years: "27",
+                        focus: "Fullstack",
+                        goal: "More Experience"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cetvoropek&icon=2&color=12)](https://visitcount.itsvg.in)
