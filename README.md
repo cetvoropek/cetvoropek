@@ -15,9 +15,9 @@ const cetvoropek = {
   code: [Javascript, Typescript, HTML, CSS, LUA, Java],
   tools: [React, Redux, Node, Styled-Components, Docker],
   about: {
-                        years: "27",
-                        focus: "Fullstack",
-                        goal: "More Experience"
-                      },
+    years: "27",
+    focus: "Fullstack",
+    goal: "More Experience",
+  },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
