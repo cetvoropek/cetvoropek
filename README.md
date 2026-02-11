@@ -15,7 +15,7 @@ const cetvoropek = {
   code: [Javascript, Typescript, HTML, CSS, LUA, Java],
   tools: [React, Redux, Node, Styled-Components, Docker],
   about: {
-    years: "20",
+    years: "29",
     focus: "Fullstack",
     goal: "More Experience",
   },
